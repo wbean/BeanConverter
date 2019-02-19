@@ -1,4 +1,7 @@
 # BeanConverter
+
+https://plugins.jetbrains.com/plugin/11960-beanconverter
+
 convert current bean to another.<br/>
 a code generate tools.<br/>
 generate code trans between DataObject, DomainObject, model, TransObject .et <br/>
